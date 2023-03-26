@@ -5,3 +5,9 @@ Database used is Mysql
 Tkinter is used for Gui
 python version 3.6.7
 pip version 21.3.1
+
+
+impor.py contains the function dealing with image identification
+
+FV.h5 is the trained model
+
