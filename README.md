@@ -11,3 +11,4 @@ impor.py contains the function dealing with image identification
 
 FV.h5 is the trained model
 
+App.py is the main file
